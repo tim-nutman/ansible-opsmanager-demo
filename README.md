@@ -1,3 +1,7 @@
+## Forked from mylynn/ansible-opsmanager-demo
+
+Purpose of the fork is to take Mike's work and alter it for usage in generic AWS regions whilst describing additional set-up instructions required for successful operation.
+
 ## Synopsis
 
 This directory contains details and instructions to help you get set up to deploy a MongoDB Opsmanager instance along with a MongoDB replica set.
